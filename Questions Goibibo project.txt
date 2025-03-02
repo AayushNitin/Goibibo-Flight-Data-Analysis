@@ -1,0 +1,12 @@
+1. Most popular routes based on Bookings
+2. Most Preferred Airlines by Customers
+3. Popular Booking Days of the Week
+4. Preferred Departure Times Among Customers
+5. Average Price by Airline
+6. Popular Routes by Class
+7. Top 5 Airlines by Revenue
+8. Correlation Between Stops and Price
+9. Top Routes for Business Class Bookings
+10. Average Price by Departure Time Slot
+11. Booking Distribution Across Airlines for Top Routes
+12. Airline Market Share Among Goibibo Customers
